@@ -1,16 +1,41 @@
-### Hi there 👋
+# toasterrepairman
+welcome to my profile! I've got an assortment of projects in active development in my repository tab, but if you're only interested in the cool stuff, click on the portfolio repo below. I do my best to keep my projects updated with nice visuals to give passersby a better idea of what's happening internally.
+
+## list of objecctive attributes/qualities
+- 🐧 Linux developer 
+- 🎛️ Hardware enthusiast
+- 🦀 Mindless Rust advocate
+- 📟 Researching native interface design
+- 🧠 Thought-thinker, armchair one-man design firm, the "attitude" 
+
+## opinions
+- ⌨️ Tabs are four spaces
+- 🤷 Vim is just better (but [micro](https://micro-editor.github.io/) rules too)
+- 🏔️ [Nord](https://www.nordtheme.com/) is the king of all color schemes
+
+## Q/A
+```
+"can I hire you?"
+```
+
+contact me at `jobs@toast.cyou`
+
+```
+"what do you build?"
+```
+
+mostly native Linux software. I'm currently working on [devtools](https://github.com/toasterrepairman/devtools), a handy toolkit for desktop developers. I also did a few dumb things like [qlip](https://github.com/toasterrepairman/qlip) and [rgtube](https://github.com/toasterrepairman/rgtube) to fill gaps in my daily workflow.
+
+```
+"music recommendations?"
+```
+[I](https://youtu.be/CsJpvDPH2aA)
+[wouldn't know](https://www.youtube.com/watch?v=bTHDD1Xe-iE)[ where ](https://www.youtube.com/watch?v=H28YlOrnTaA)[to begin](https://youtu.be/3hPjbc6wRfA)
 
 <!--
-**toasterrepairman/toasterrepairman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+take a picture
+hope it lasts long
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+strictly business
+check the backlog
 -->
