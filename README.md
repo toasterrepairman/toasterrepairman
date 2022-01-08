@@ -1,7 +1,7 @@
 # toasterrepairman
 welcome to my profile! I've got an assortment of projects in active development in my repository tab, but if you're only interested in the cool stuff, click on the portfolio repo below. I do my best to keep my projects updated with nice visuals to give passersby a better idea of what's happening internally.
 
-## list of objecctive attributes/qualities
+## list of objective attributes/qualities
 - 🐧 Linux developer 
 - 🎛️ Hardware enthusiast
 - 🦀 Mindless Rust advocate
