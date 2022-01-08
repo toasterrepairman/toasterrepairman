@@ -29,7 +29,7 @@ mostly native Linux software. I'm currently working on [devtools](https://github
 ```
 "music recommendations?"
 ```
-[I](https://youtu.be/CsJpvDPH2aA)
+[I](https://youtu.be/eEO56WG0p48)
 [wouldn't know](https://www.youtube.com/watch?v=bTHDD1Xe-iE)[ where ](https://www.youtube.com/watch?v=H28YlOrnTaA)[to begin](https://youtu.be/3hPjbc6wRfA)
 
 <!--
