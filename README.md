@@ -18,7 +18,7 @@ welcome to my profile! I've got an assortment of projects in active development 
 "can I hire you?"
 ```
 
-contact me at `jobs@toast.cyou`
+not now. you can contact me at `smol@toast.cyou`, though!
 
 ```
 "what do you build?"
