@@ -18,13 +18,15 @@ welcome to my profile! I've got an assortment of projects in active development 
 "can I hire you?"
 ```
 
-not now. you can contact me at `smol@toast.cyou`, though!
+contact me at `smol@toast.cyou`
 
 ```
 "what do you build?"
 ```
 
 mostly native Linux software. I'm currently working on [devtools](https://github.com/toasterrepairman/devtools), a handy toolkit for desktop developers. I also did a few dumb things like [qlip](https://github.com/toasterrepairman/qlip) and [rgtube](https://github.com/toasterrepairman/rgtube) to fill gaps in my daily workflow.
+
+professionally, I'm also comfortable with SRE/DevOps work.
 
 ```
 "music recommendations?"
