@@ -1,5 +1,5 @@
 # toasterrepairman
-welcome to my profile! I've got an assortment of projects in active development in my repository tab, but if you're only interested in the cool stuff, click on the portfolio repo below. I do my best to keep my projects updated with nice visuals to give passersby a better idea of what's happening internally.
+welcome to my profile! I've got an assortment of projects in active development in my repository tab, but if you're only interested in the cool stuff, check out my [portfolio repo](https://github.com/toasterrepairman/portfolio). I do my best to keep my projects updated with nice visuals to give passersby a better idea of what's happening internally.
 
 ## list of objective attributes/qualities
 - 🐧 Linux developer 
