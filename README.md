@@ -6,7 +6,7 @@ welcome to my profile! I've got an assortment of projects in active development 
 - 🎛️ Hardware enthusiast
 - 🦀 Mindless Rust advocate
 - 📟 Researching native interface design
-- 🧠 Thought-thinker, armchair one-man design firm, the "attitude" 
+- 🧠 Studying AI usability
 
 ## opinions
 - ⌨️ Tabs are four spaces
@@ -24,20 +24,6 @@ contact me at `smol@toast.cyou`
 "what do you build?"
 ```
 
-mostly native Linux software. I'm currently working on [devtools](https://github.com/toasterrepairman/devtools), a handy toolkit for desktop developers. I also did a few dumb things like [qlip](https://github.com/toasterrepairman/qlip) and [rgtube](https://github.com/toasterrepairman/rgtube) to fill gaps in my daily workflow.
+mostly native Linux software. I'm currently working on GTK GUI interfaces for assorted applications. I've also got an actively maintained [Discord bot](https://github.com/toasterrepairman/egghead), some [public dotfiles](https://github.com/toasterrepairman/boostrap), and a couple [smaller](https://github.com/toasterrepairman/qlip) [tools](https://github.com/toasterrepairman/qubert).
 
 professionally, I'm also comfortable with SRE/DevOps work.
-
-```
-"music recommendations?"
-```
-[I](https://youtu.be/eEO56WG0p48)
-[wouldn't](https://www.youtube.com/watch?v=bTHDD1Xe-iE)[ know](https://youtu.be/rdf62fcwmeA)[ where ](https://www.youtube.com/watch?v=H28YlOrnTaA)[to begin](https://youtu.be/3hPjbc6wRfA)
-
-<!--
-take a picture
-hope it lasts long
-
-strictly business
-check the backlog
--->
